@@ -1,0 +1,1 @@
+mọi người bỏ file.js của thư viện vô dây nha. tương tụ như bên file css thì ta nên tạo folder cho chứ các file.js của các thư viện
